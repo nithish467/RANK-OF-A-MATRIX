@@ -14,9 +14,10 @@ count non zero rows
 end of the matrix
 
 ## Program:
+```
 #name : NITHISH KUMAR S
 #reference no:23013506
-```
+
 import numpy as np
 matrix = np.array([[1,2,3],[3,6,9]])
 rank = np.linalg.matrix_rank(matrix)
